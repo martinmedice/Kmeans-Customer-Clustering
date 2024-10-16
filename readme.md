@@ -74,7 +74,8 @@ The K-means algorithm identified **4 customer segments**, each with unique chara
 | Cluster_4  | 0.608 | -0.276 | -0.202 | Somewhat inactive, Low Frequency, Low Value | Re-engagement campaigns, Improving customer experience |
 
 <p align="center">
-  <img src="img/3d_plot.png" alt="3d_plot" width="600"/>
+  <img src="img/3d_plot1.png" alt="3d_plot" width="400"/>
+  <img src="img/3d_plot.png" alt="3d_plot" width="425"/>
 </p>
 
 ### Example of Strategic Action for Cluster 1:
